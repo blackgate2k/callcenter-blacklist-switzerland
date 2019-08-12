@@ -5820,3 +5820,9 @@
 0435082368;Firma Callcenter unbekanntBemerkung Krankenkassen
 0432555953;Firma Firma unbekanntBemerkung Versucht Krankenkasse aufzuschwatzen
 006531580351;Firma unbekannt
+0043720778801;Firma Callcenter unbekannt
+0225187749;Firma Callcenter unbekannt
+0225187710;Firma Callcenter unbekannt
+0225187734;Firma Callcenter unbekannt
+0225187701;Firma Callcenter unbekannt
+0225187776;Firma Callcenter unbekannt
